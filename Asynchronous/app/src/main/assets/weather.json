@@ -1,0 +1,36 @@
+[
+  {
+    "cityId": 1,
+    "cityName": "London",
+    "temperature": 25,
+    "windDirection": "Easterly"
+  },
+
+  {
+    "cityId": 2,
+    "cityName": "Newcastle",
+    "temperature": 9,
+    "windDirection": "South easterly"
+  },
+
+  {
+    "cityId": 3,
+    "cityName": "Edinburgh",
+    "temperature":13,
+    "windDirection": "South westerly"
+  },
+
+  {
+    "cityId": 4,
+    "cityName": "Manchester",
+    "temperature": 18,
+    "windDirection": "Westerly"
+  },
+
+  {
+    "cityId": 5,
+    "cityName": "Glasgow",
+    "temperature": 14,
+    "windDirection": "North westerly"
+  }
+]

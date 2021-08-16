@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<resources>
+    <weather>
+        <city>Hyd</city>
+        <lat>17.1234567</lat>
+        <longi>17.987654</longi>
+        <temp>40</temp>
+        <humidity>20</humidity>
+    </weather>
+    <weather>
+        <city>Benguluru</city>
+        <lat>17.1234567</lat>
+        <longi>17.987654</longi>
+        <temp>30</temp>
+        <humidity>15</humidity>
+    </weather>
+    <weather>
+        <city>Delhi</city>
+        <lat>17.1234567</lat>
+        <longi>17.987654</longi>
+        <temp>45</temp>
+        <humidity>25</humidity>
+    </weather>
+</resources>
